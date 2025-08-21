@@ -13,7 +13,7 @@
 - 📄 To know about my experience check out my resume <a href="https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf" target="_blank"> here </a>.
 - 📫 If you want to contact me feel free to send me an email at **aabidrahman001@gmail.com**.
 
-<h3 align="left">My Social and Coummunity Accounts:</h3>
+<h3 align="left">My Social and Community Accounts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aabidrahman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aabidrahman" height="30" width="40" /></a>
 </p>
