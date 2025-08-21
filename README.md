@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/aabidrahman/" target="_blank"> Aabid Rahman </a> </h1>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/aabidrahman/" target="_blank"> Aabid Rahman </a> </h1>
 <h3 align="center">A FullStack Developer and DevOps Engineer from Dhaka,Bangladesh</h3>
 
 <h3 align="left">About my GitHub profile:</h3>
