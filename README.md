@@ -20,7 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Existing -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -52,7 +51,6 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 
-  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -63,7 +61,6 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 
-  <!-- DevOps & Tools -->
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
   <img src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" alt="gitlab" width="40" height="40"/>
   </a>
@@ -92,14 +89,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
   
-  <!-- BI / Reporting -->
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/18171698?s=200&v=4" alt="superset" width="40" height="40"/>
   </a>
   <a href="https://community.jaspersoft.com/project/jasperreports-library" target="_blank" rel="noreferrer">
     <img src="https://opensource.muenchen.de/logo/jaspersoft_studio_icon.jpg" alt="jasperreports" width="80" height="40"/>
   </a>
-  
 </p>
 
 
