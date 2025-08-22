@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001" alt="aabidrahman001" /></a> </p>
 
-- 💬 I'm happy to discuss about **Javascript, Python, PostgreSql, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting and much more!**.
+- 💬 I'm happy to discuss about **Javascript, Python, PostgreSql, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting and much more!**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aabidrahman001) and [Gitlab](https://gitlab.com/aabidrahman)
 - ⚡ I Self-host my own code Repositories!
 - 📄 To know about my experience check out my resume <a href="https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf" target="_blank"> here </a>.
