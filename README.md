@@ -13,10 +13,10 @@
 </p>
 
 - 💬 I'm happy to discuss about **Javascript, Python, PostgreSql, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting and much more!**
-- 👨‍💻 All of my projects are available at [Github](https://github.com/aabidrahman001) and [Gitlab](https://gitlab.com/aabidrahman)
+- 👨‍💻 All of my projects can be found at the following repositories [![Github](https://custom-icon-badges.demolab.com/badge/-Github-grey?style=for-the-badge&logoColor=white&logo=github)](https://github.com/aabidrahman001) [![Gitlab](https://custom-icon-badges.demolab.com/badge/-Gitlab-orange?style=for-the-badge&logoColor=white&logo=Gitlab)](https://gitlab.com/aabidrahman)
 - ⚡ I Self-host my own code Repositories!
-- 📄 To know about my experience check out my resume <a href="https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf" target="_blank"> here </a>.
-- 📫 If you want to contact me feel free to send me an email at **aabidrahman001@gmail.com**.
+- 📄 To know about my experience check out my <!---resume <a href="https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf" target="_blank"> here </a>.--> [![Resume](https://custom-icon-badges.demolab.com/badge/-Resume-green?style=for-the-badge&logoColor=white&logo=readme)](https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf)
+- 📫 If you want to contact me feel free to send me an <!---email at **aabidrahman001@gmail.com**.--> [![Email](https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=email)](aabidrahman001@gmail.com)
 
 <h3 align="left">My Social and Community Accounts:</h3>
 <p align="left">
