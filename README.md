@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aabidrahman001&label=Profile%20views&color=0e75b6&style=flat" alt="aabidrahman001" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001" alt="aabidrahman001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="aabidrahman001" /></a> </p>
 
 - 💬 I'm happy to discuss about **Javascript, Python, PostgreSql, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting and much more!**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aabidrahman001) and [Gitlab](https://gitlab.com/aabidrahman)
