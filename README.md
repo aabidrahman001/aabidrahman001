@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=transparent&show_icons=true&locale=en&hide_border=true&card_width=895&title_color=FFFFFF&text_color=FFFFFF&icon_color=D47E00&ring_color=00EB29&rank_icon=github&custom_title=Overall%20Github%20Stats&hide_title=true" alt="GitHub Stats" style="margin-bottom: 10px;" /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&card_width=380&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&hide_title=true" alt="Top Languages" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&card_width=370&theme=transparent&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&hide_title=true" alt="Top Languages" style="margin-bottom: 10px;" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=transparent&show_icons=true&locale=en&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=D47E00&ring_color=00EB29&rank_icon=github&custom_title=Overall%20Github%20Stats&hide_title=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
   
