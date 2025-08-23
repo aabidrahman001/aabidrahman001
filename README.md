@@ -107,14 +107,14 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en&layout=compact&hide_border=true&card_width=695" alt="Top Languages" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en&layout=compact&hide_border=true&card_width=895" alt="Top Languages" style="margin-bottom: 10px;" />
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en&hide_border=true&card_width=695" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en&hide_border=true&card_width=895" alt="GitHub Stats" style="margin-bottom: 10px;" />
 
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001&theme=highcontrast&hide_border=true&card_width=695" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001&theme=highcontrast&hide_border=true&card_width=895" alt="GitHub Streak" />
 
 </div>
