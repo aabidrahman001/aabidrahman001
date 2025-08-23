@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001&theme=onedark" alt="aabidrahman001" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001&theme=highcontrast" alt="aabidrahman001" />
 </a>
 </p>
 
@@ -105,16 +105,14 @@
 
 <h3 align="left">My GitHub profile stats:</h3>
 
-<div align="left">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&theme=onedark&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=onedark&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=highcontrast&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001&theme=highcontrast" alt="GitHub Streak" />
 
 </div>
