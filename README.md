@@ -107,14 +107,14 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&theme=onedark&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=onedark&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidrahman001&theme=onedark" alt="GitHub Streak" />
 
 </div>
