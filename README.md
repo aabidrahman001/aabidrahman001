@@ -35,7 +35,7 @@
 <h3 align="center">🌐 Social & Community</h3>
 <p align="center">
   <a href="https://linkedin.com/in/aabidrahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=lnkein&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
   </a>
   <a href="https://github.com/aabidrahman001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
