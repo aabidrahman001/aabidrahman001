@@ -3,7 +3,7 @@
 
 <p align="center"">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF72C&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full-Stack+Developer;Problem+Solver+%26+Debugger;Cloud+%7C+CI%2FCD+%7C+Automation;Always+Learning+Something+New;Open-Source+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EF72C&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full-Stack+Developer;Problem+Solver+%26+Debugger;Cloud+%7C+CI%2FCD+%7C+Automation;Always+Learning+Something+New;Open-Source+Enthusiast" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <!--<img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001&theme=highcontrast" alt="aabidrahman001"/>-->
-    <img src="https://trophygh.kolioaris.xyz/?username=aabidrahman001&theme=highcontrast" alt="GitHub Trophies"/>
+    <img src="https://trophygh.kolioaris.xyz/?username=aabidrahman001&no-bg=true&no-frame=true&theme=darkhub" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -29,13 +29,13 @@
 - 💬 I enjoy discussing **JavaScript, Python, PostgreSQL, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting, and more!**  
 - 👨‍💻 You can find all my projects on: [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-grey?style=for-the-badge&logoColor=white&logo=github)](https://github.com/aabidrahman001) [![GitLab](https://custom-icon-badges.demolab.com/badge/-GitLab-orange?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/aabidrahman)  
 - ⚡ I self-host my code repositories!  
-- 📄 My [Resume](https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf)  
-- 📫 Contact me via [Email](mailto:aabidrahman001@gmail.com)
+- 📄 Check out my [Resume](https://github.com/aabidrahman001/Aabid-rahman/blob/main/cv/aabid_rahman_cv.pdf) here.
+- 📫 Want to reach out? Contact me via [Email](mailto:aabidrahman001@gmail.com).
 
 <h3 align="center">🌐 Social & Community</h3>
 <p align="center">
   <a href="https://linkedin.com/in/aabidrahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=lnkein&logoColor=white"/>
   </a>
   <a href="https://github.com/aabidrahman001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -81,8 +81,8 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=transparent&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=D47E00&ring_color=00EB29&rank_icon=github&custom_title=Overall%20GitHub%20Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidrahman001&theme=transparent&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=D47E00&ring_color=00EB29&rank_icon=github&custom_title=Overall%20GitHub%20Stats&hide_title=true" height="165"/>
 </p>
 
 <p align="center">
