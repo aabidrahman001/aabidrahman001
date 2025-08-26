@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <!--<img src="https://github-profile-trophy.vercel.app/?username=aabidrahman001&theme=highcontrast" alt="aabidrahman001"/>-->
-    <img src="https://trophygh.kolioaris.xyz/?username=aabidrahman001&no-bg=true&no-frame=true&theme=darkhub" alt="GitHub Trophies"/>
+    <img src="https://trophygh.kolioaris.xyz/?username=aabidrahman001&no-bg=true&no-frame=true&theme=darkhub&row=1&column=4" alt="GitHub Trophies"/>
   </a>
 </p>
 
