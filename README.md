@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aabidrahman001&theme=transparent&hide_border=true&stroke=00EB29&ring=D47E00&fire=D47E00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D47E00&sideLabels=EBEBEB&dates=D7D7D7" height="180"/>
+  <img src="https://git-streak-stats.vercel.app?user=aabidrahman001&theme=transparent&hide_border=true&stroke=00EB29&ring=D47E00&fire=D47E00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D47E00&sideLabels=EBEBEB&dates=D7D7D7" height="180"/> 
 </p>
