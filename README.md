@@ -29,7 +29,7 @@
 - 💬 I enjoy discussing **JavaScript, Python, PostgreSQL, IIS, Docker, Kubernetes, Ansible, Grafana, Prometheus, Helm, Zabbix, Shell Scripting, and more!**  
 - 👨‍💻 You can find all my projects on: [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-grey?style=for-the-badge&logoColor=white&logo=github)](https://github.com/aabidrahman001) [![GitLab](https://custom-icon-badges.demolab.com/badge/-GitLab-orange?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/aabidrahman)  
 - ⚡ I self-host my code repositories!  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1oEN4ydUxyowmMJaJsQCs_AqSH94uNNhY/view?usp=sharing) here.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1oEN4ydUxyowmMJaJsQCs_AqSH94uNNhY/view?usp=sharing) here by sending a request.
 - 📫 Want to reach out? Contact me via [Email](mailto:aabidrahman001@gmail.com).
 
 <h3 align="center">🌐 Social & Community</h3>
