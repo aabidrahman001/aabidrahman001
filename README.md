@@ -76,7 +76,7 @@
 
 <br>
 
-<h2 align="center">📊 My GitHub Stats</h2> <!--Highest strreak was 15 last month-->
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidrahman001&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&hide_title=true" height="165"/>
