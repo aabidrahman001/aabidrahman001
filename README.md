@@ -3,7 +3,8 @@
 <p align="center"">
 <!--<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/fd3e364b-ea0b-4cec-85cf-d5884cb664c0"/> 
     <img width="498" height="436" alt="image" src="https://github.com/user-attachments/assets/3bcdb6ca-9ffd-4306-beed-cfb92bd670ee"/> -->
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe309338-cfa0-4298-9a89-b8f88c14c4e7"/>
+<img width="1920" height="1080" alt="image" src=https://github.com/user-attachments/assets/e28c24bb-4a02-4aa4-9e4c-dad55d99ab9a"/>
+
 </p>
 
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/aabidrahman/" target="_blank">Aabid Rahman</a> 👋</h1>
