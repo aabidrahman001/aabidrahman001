@@ -74,7 +74,7 @@
   <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 </p>
-
+<!--New-Section-->
 <br>
 
 <h2 align="center">📊 My GitHub Stats</h2>
