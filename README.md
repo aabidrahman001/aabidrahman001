@@ -37,12 +37,15 @@
   <a href="https://linkedin.com/in/aabidrahman" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
   </a>
+    
   <a href="https://github.com/aabidrahman001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
   <a href="https://gitlab.com/aabidrahman" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
+  
   <a href="mailto:aabidrahman001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
